@@ -1,0 +1,117 @@
+body {
+    background:rgb(142, 248, 248)
+}
+
+/* background color should be deleted afterwards. added only for the purpose of visualization of white icons */
+
+.gray {
+    fill:#606060
+}
+
+.white {
+    fill:white
+}
+.Home, .History {
+    width:20px;
+    height:17px;
+}
+
+.Trending {
+    width:14px;
+    height:18px;
+}
+
+.Subscriptions, .Your-videos, .Watch-later {
+    width:17px;
+    height:17px; 
+}
+
+.Library, .Settings-gray, .Help, .Send-feedback {
+    width:20px;
+    height:20px; 
+}
+
+.Liked-videos {
+    width:17px;
+    height:15px;
+}
+
+.Show-more {
+    width:12px;
+    height:8px;
+}
+
+.YouTube-Premium {
+    width:20px;
+    height:15px;
+}
+
+.Gaming {
+    width:20px;
+    height:14px;
+}
+
+.Live {
+    width:22px;
+    height:16px;
+}
+
+.Report-History {
+    width:15px;
+    height:17px;
+}
+
+.Search {
+    width:15px;
+    height:15px;
+}
+
+.Play-all {
+    width:11px;
+    height:14px;
+}
+
+.Verified {
+    width:11px;
+    height:11px;
+}
+
+.Create {
+    width:18px;
+    height:12px;
+}
+
+.Youtube-apps, .Settings-white  {
+    width:16px;
+    height:16px;
+}
+
+.Notifications, .Repeat {
+    width:16px;
+    height:20px;
+}
+
+.Next {
+    width:8px;
+    height:12px;
+}
+
+.Volume {
+    width:18px;
+    height:18px;
+}
+
+.Subtitles {
+    width:18px;
+    height:14px;
+} 
+
+.Fullscreen {
+    width:17px;
+    height:16px;
+}
+
+.More-options {
+    width:4px;
+    height:16px;
+}
