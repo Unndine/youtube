@@ -16,6 +16,10 @@ body {
     height:17px;
 }
 
+.Next.gray {
+    transform: rotate(-90deg);
+}
+
 .Trending {
     width:14px;
     height:18px;
@@ -115,3 +119,4 @@ body {
     width:4px;
     height:16px;
 }
+
