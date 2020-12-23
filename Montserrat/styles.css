@@ -1,9 +1,5 @@
-@import url(fonts.css);
-
 body {
-    background:rgb(142, 248, 248);
-    font-family: Montserrat;
-    font-weight: 100;
+    background:rgb(142, 248, 248)
 }
 
 /* background color should be deleted afterwards. added only for the purpose of visualization of white icons */
@@ -124,11 +120,3 @@ body {
     height:16px;
 }
 
-.bold {
-    font-weight: 400;
-}
-
-.italic {
-    font-style: italic;
-
-}
