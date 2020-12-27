@@ -2,14 +2,47 @@
 
 body {
     background:rgb(142, 248, 248);
-    font-family: Montserrat;
-    font-weight: 100;
+    font-family: Roboto;
 }
 
 /* background color should be deleted afterwards. added only for the purpose of visualization of white icons */
 
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.leftpanel {
+    width: 180px;
+}
+
+.regular {
+    font-weight: 400;
+}
+
+.medium {
+    font-weight: 500;
+}
+
+.bluedot {
+    font-size: 30px;
+    color:#2860CD;
+}
+
+
 .gray {
     fill:#606060
+}
+
+.grayfonts {
+    color:#606060;
+}
+
+.lightgrayfonts {
+    color: #E5E5E5;
 }
 
 .white {
@@ -18,6 +51,11 @@ body {
 .Home, .History {
     width:20px;
     height:17px;
+}
+
+.dropdown {
+    width: 18px;
+    height: 12px;
 }
 
 .Next.gray {
@@ -122,13 +160,4 @@ body {
 .More-options {
     width:4px;
     height:16px;
-}
-
-.bold {
-    font-weight: 400;
-}
-
-.italic {
-    font-style: italic;
-
 }
